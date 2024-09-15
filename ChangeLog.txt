@@ -1,0 +1,20 @@
+v1.0.1 ScoreBoard:
+    Added support for updating the Update Tool through the ScoreBoard app
+
+V1.0.1 Update Tool:
+    Minor bug fix with reading version file
+    Added support for downloading the ChangeLog
+    Added a progress bar
+    Changed UI to be nicer
+
+v1.0.2 ScoreBoard:
+    Removed the jar containing the Update Tool
+    Fixed a bug when checking for an Update Tool Update
+
+V1.0.2 Update Tool:
+    Code clean up
+    Removed the jar containing the ScoreBoard
+<<<<<<< HEAD:Changelog.txt
+    Changed "Proceed with Update?" to "Check for Update?"
+=======
+>>>>>>> 6f03584424769adfdafcc2983eca595a01defd6d:ChangeLog.txt
