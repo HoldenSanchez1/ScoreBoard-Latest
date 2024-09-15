@@ -1,0 +1,7 @@
+v1.0.1 ScoreBoard:
+    Added support for updating the Update Tool through the ScoreBoard app
+
+V1.0.1 Update Tool:
+    Added support for downloading the Changelog
+    Added a progress bar
+    Changed UI to be nicer
