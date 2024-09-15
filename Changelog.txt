@@ -9,6 +9,7 @@ V1.0.1 Update Tool:
 
 v1.0.2 ScoreBoard:
     Removed the jar containing the Update Tool
+    Fixed a bug when checking for an Update Tool Update
 
 V1.0.2 Update Tool:
     Code clean up
