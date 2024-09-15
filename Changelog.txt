@@ -6,3 +6,10 @@ V1.0.1 Update Tool:
     Added support for downloading the ChangeLog
     Added a progress bar
     Changed UI to be nicer
+
+v1.0.2 ScoreBoard:
+    Removed the jar containing the Update Tool
+
+V1.0.2 Update Tool:
+    Code clean up
+    Removed the jar containing the ScoreBoard
