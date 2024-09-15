@@ -14,7 +14,3 @@ v1.0.2 ScoreBoard:
 V1.0.2 Update Tool:
     Code clean up
     Removed the jar containing the ScoreBoard
-<<<<<<< HEAD:Changelog.txt
-    Changed "Proceed with Update?" to "Check for Update?"
-=======
->>>>>>> 6f03584424769adfdafcc2983eca595a01defd6d:ChangeLog.txt
