@@ -14,3 +14,17 @@ v1.0.2 ScoreBoard:
 V1.0.2 Update Tool:
     Code clean up
     Removed the jar containing the ScoreBoard
+    Changed "Proceed with Update" to "Check for Update?"
+
+V1.1 ScoreBoard:
+    Changed the save system
+    Windows are now centered
+    Fixed a bug with the set display for the volleyball mode
+    Fixed a bug with the checkboxes on the mode select screen not showing the current mode
+    Added OBS Websocket support for Football, Basketball, Volleyball
+    Fixed the title of the ScoreBoard Settings window
+    Redesigned the settings windows
+    Fixed some minor visual problems on Windows with some boxes being cut off-screen
+
+V1.0.3 Update Tool:
+    Added an option to download change log even if no available scoreboard update
