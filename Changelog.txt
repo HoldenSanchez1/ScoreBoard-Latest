@@ -38,3 +38,6 @@ V1.1.1 ScoreBoard:
     Added a solution to updates requiring deletion of save data, only works from here forward
     Added a mode selector to the OBS menu to bring clarity to the setup
     Re-arranged the OBS menu some
+
+V1.1.1 Quiet ScoreBoard: (Does not show as new update)
+    Fixed an issue with the OBS updates happening slowly
