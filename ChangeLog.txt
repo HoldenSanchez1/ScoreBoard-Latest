@@ -41,3 +41,15 @@ V1.1.1 ScoreBoard:
 
 V1.1.1 Quiet ScoreBoard: (Does not show as new update)
     Fixed an issue with the OBS updates happening slowly
+
+V1.1.2 ScoreBoard:
+    Added a popup to show that the Web Socket applied
+    Small backend changes
+    Fixed a bug where the connect button would stay as "Disconnect" even if you already disconnected
+    Added a toggle feature to OBS Websockets where you can add a source to a toggle enabled, works with transitions
+    Added a button menu side pop up to go along with the previous addition
+    Added a new scene switch feature where you can change the scene through the button menu
+
+V1.1.3 ScoreBoard:
+    Added a new menu to change the connection information so that it is easier
+    Reformated the OBS Connect Settings Window to be cleaner
