@@ -53,3 +53,11 @@ V1.1.2 ScoreBoard:
 V1.1.3 ScoreBoard:
     Added a new menu to change the connection information so that it is easier
     Reformated the OBS Connect Settings Window to be cleaner
+
+V1.1.4 Alpha ScoreBoard:
+    Added always on top into the program
+    Redesigned the interface for the websocket settings
+    Added support for an info option OBS controller
+    Added buttons for the info options to use
+    Added auto connect support
+    Appropriately added Alpha to version scheme
