@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="ScoreBoard-Latest">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ScoreBoard.jar!/" />
+      <root url="jar://$PROJECT_DIR$/UpdateTool.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
