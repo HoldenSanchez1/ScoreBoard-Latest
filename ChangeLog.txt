@@ -62,11 +62,15 @@ V1.1.4 Alpha ScoreBoard:
 	Added auto connect support
 	Appropriately added Alpha to version scheme
 
-V1.2.0 Alpha ScoreBoard:
+V1.2.0_Alpha ScoreBoard:
 	Major graphics update
 	Simplified controls
 	Added dark mode
 	Updated the settings menu
 	Changed tittle of some windows to be more relevant
 	Removed the mode selection and put it in settings
+	Added new settings for mode selection on open
+	Reworked the OBS Websocket Settings to be much more user-friendly
+	    Previous design utilized a table, and each cell was modifiable to configure an action
+	    The new system uses custom menuing which makes the experience much easier to follow
 
